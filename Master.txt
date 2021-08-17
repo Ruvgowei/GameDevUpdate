@@ -2,7 +2,3 @@
 <Version: 1.01>
 /data/mp4.mp4 https://media.tenor.co/videos/2b25891d5726757c4fcb88025931d8fc/mp4
 <End of Version>
-
-<Version: 1.02>
-/data/mp4.mp4 https://media.tenor.co/videos/2b25891d5726757c4fcb88025931d8fc/mp4
-<End of Version>
